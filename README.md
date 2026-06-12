@@ -24,7 +24,4 @@ streamlit run app.py
 
 Open the app, search for a NOAA station in the sidebar, and pick from the matching results.
 
-## Notes
-
-- This repository was initialized locally and pushed to GitHub; if you created the remote with a README, it was merged during the first push.
 
