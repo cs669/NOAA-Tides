@@ -10,3 +10,6 @@ node_modules/
 .vscode/
 *.log
 .idea/
+
+# Android app lives in its own repo (cs669/NOAA-Tides-Android)
+android/
